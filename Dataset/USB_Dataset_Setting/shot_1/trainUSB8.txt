@@ -1,0 +1,5 @@
+spot/65BL(2)85.bmp 3
+scratch/100BL5.bmp 1
+squalidity/20BL203.bmp 4
+dent/199AL3.bmp 2
+brightline/17AL16.bmp 0

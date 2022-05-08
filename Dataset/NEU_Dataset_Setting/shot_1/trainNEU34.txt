@@ -1,0 +1,6 @@
+Sc_191.bmp 5
+Pa_20.bmp 2
+In_122.bmp 1
+PS_32.bmp 3
+RS_277.bmp 4
+Cr_46.bmp 0

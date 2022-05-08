@@ -1,0 +1,6 @@
+Pa_244.bmp 2
+Sc_9.bmp 5
+In_282.bmp 1
+RS_85.bmp 4
+PS_17.bmp 3
+Cr_239.bmp 0
