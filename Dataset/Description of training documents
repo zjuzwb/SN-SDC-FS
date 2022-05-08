@@ -1,0 +1,2 @@
+Each experiment included trainNEUi.txt(or trainUSBi.txt) and the corresponding testNEUi.txt(or testnUSBi.txt), where i = 0, 1, 2,..., 34, and 35 data sets in total.
+In each text document, each line is represented as a picture name + label (e.g., Sc_22.bmp 5, c_22.bmp is the image name, and '5' is the label)
